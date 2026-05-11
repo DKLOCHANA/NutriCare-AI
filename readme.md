@@ -1,1 +1,1 @@
-https://dklochana.github.io/NutriGuard/
+https://dklochana.github.io/NutriCare-AI/
